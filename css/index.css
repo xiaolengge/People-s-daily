@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+#toubu{
+	height:1.25rem;
+
+	background-color: #e01100;
+	border: none;
+	display: flex;
+	 justify-content: center;
+	
+	 
+}
+.am-icon-search{
+	font-size:0.572916rem;
+	color: #ffd7a6;
+}
+.toubu-a{
+	 align-self: center;
+}
+.toubu-b{
+	 align-self: center;
+}
+.toubu-c{
+	 align-self: center;
+}
+.toubu-d{
+	 align-self: center;
+}
+.toubu-b{
+    	width: 7.083333rem;
+        height:0.729166rem;
+        line-height: 0.395833rem;
+        white-space: nowrap;
+        box-shadow: 0 0.010416rem 0.020833rem rgba(0,0,0,.1);
+        overflow-x: scroll;
+        overflow-y: hidden;
+        -webkit-backface-visibility: hidden;
+        -webkit-perspective: 1000;
+        -webkit-overflow-scrolling: touch;
+        text-align: justify;
+        background: #fff;
+        padding: 0 0.052083rem;
+        box-sizing: border-box;
+    }
+   .toubu-b a{ 
+    	color: #898989;
+    font-size: 0.15625rem;
+    padding-right: 0.208333rem;
+    line-height: 0.104166rem;
+    text-decoration: none;
+    margin-right: 0.104166rem;
+	}
+	

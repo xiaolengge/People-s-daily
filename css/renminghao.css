@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+#toubu{
+	height:1.25rem;
+	width: 100%;
+	background-color: #e01100;
+	border: none;
+	display: flex;
+	 justify-content: center;
+	
+	 
+}
+.mui-icon-search{
+	font-size:0.572916rem;
+	color: #f8d09c;
+}
+.mui-icon-plusempty{
+	margin: 0.052083rem;
+	font-size:0.572916rem;
+	color: #f8d09c;
+}
+#
+#zuidingbu{
+	overflow: visible;
+	height: 100%;
+}
+.liebiao-a{
+	height: 2.083333rem;
+	width: 9.795833rem;
+	margin: 0.104166rem;
+	display: flex;
+	justify-content: flex-start;
+}
+.liebiao-d{
+	width: 2.708333rem;
+	height: 2.083333rem;
+}
+.liebiao-d img{
+	width: 2.708333rem;
+	height: 2.083333rem;
+}
+.liebiao-c{
+	width: 7rem;
+	height: 2.083333rem;
+	margin-left: 0.052083rem;
+}
+.liebiao-c span{
+	font-size: 0.4125rem;
+}
+#liebiao-e{
+	font-size: 0.15625rem;
+	color: #aeaeae;
+	margin-left: 0.104166rem;
+}
+#dibubiaoti{
+	position: fixed;
+	bottom:0;
+}
+.dibubiaoti{
+	color: #ff002f;
+}
+.mui-bar-tab .mui-tab-item.mui-active {
+    color: #ff002f;
+	}
+
+.mui-segmented-control.mui-segmented-control-inverted .mui-control-item.mui-active{
+	color: #ffe0a4;
+}
+#biaoti{
+	width: 1.525rem;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.mui-scroll{
+	display: flex;
+}
+.xuanxiangka{
+	width: 8.020833rem;
+	display: flex;
+		 justify-content: center;
+		 align-self: center;
+}

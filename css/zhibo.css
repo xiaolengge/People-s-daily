@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+#toubu{
+	height:1.25rem;
+	width: 100%;
+	background-color: #e01100;
+	border: none;
+	display: flex;
+	 justify-content: center; 
+}
+#zuidingbu{
+	overflow: visible;
+	height: 25.833333rem;
+}
+.mui-content::-webkit-scrollbar {
+        display: none;
+}
+.mui-bar-tab .mui-tab-item.mui-active {
+    color: #ff002f;
+	}
+
+.mui-segmented-control.mui-segmented-control-inverted .mui-control-item.mui-active{
+	color: #ffe0a4;
+}
+.mui-scroll{
+	display: flex;
+}
+#dibu{
+	color: red;
+}
+#lbt-c{
+	height: 25.833333rem;
+}
+.mui-inner-wrap{
+	height: 25.833333rem;
+}
+.bioati{
+	 align-self: center;
+	 font-size:0.625rem;
+	 font-weight: 600;
+	 color: #ddec9b;
+	 letter-spacing:0.104166rem;
+}
+
+/* ----- */
+.yugao{
+	height: 2.75rem;
+	background: #fff;
+	border-radius: 0.208333rem;
+	margin: 0.208333rem;
+	display: flex;
+	 justify-content: center; 
+	 margin-top: 1.41666rem;
+}
+
+.yugao-a{
+	height:1.875rem;
+	width: 3.125rem;
+	border-right: 1px solid #ededed;
+	 align-self: center;
+	 display: flex;
+	  justify-content: center; 
+	   flex-direction: column;
+}
+#yugao-a-a{
+	align-self: center;
+}
+.yugao-a-b{
+	font-size: 0.125rem;
+	text-align: center;
+}
+.yugao-b{
+	height:1.875rem;
+	width: 6.4rem;
+	align-self: center;
+	display: flex;
+	  flex-direction: column;
+}
+.mui-icon-extra-notice{
+	color: #12a0e8;
+}
+.yugao-a-c{
+	color: #12a0e8;
+}
+.yugao-b-a{
+	font-size: 0.416666rem;
+	margin: 0.104166rem;
+}
+.yugao-b-b{
+	color:  #12a0e8;
+	margin: 0.104166rem;
+}
+.huigu{
+	border-bottom:0.183333rem solid #999999;
+	width: 3.041666rem;
+	margin: 0 auto;
+	margin-top: 0.520833rem;
+	display: flex;
+	 justify-content: center; 
+}
+#huigu-a{
+	position: relative;
+	top:0.308333rem;
+	background: #efeff4;
+	font-size:0.96875rem;
+	font-weight: 600;
+}
+.zhibo{
+	display: flex;
+	justify-content: center;
+	margin-top: 0.541666rem;
+}
+.zhibo-a{
+	border-radius: 0.208333rem;
+	border: 0.030416rem solid #eaeaea;
+	background: #fff;
+	margin: 0.104166rem;
+	height:4.01rem;
+}
+.zhibo-b{
+	width: 4.6875rem;
+	height: 2.670833rem;
+	
+	
+}
+.zhibo-b img{
+	width: 4.6875rem;
+	height: 2.604166rem;
+	border-radius: 0.208333rem;
+}
+.zhibo-c{
+	width: 4.6875rem;
+	font-size:0.416666rem;
+}
+	

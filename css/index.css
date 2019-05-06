@@ -4,7 +4,7 @@
     border:0;
 }
 #toubu{
-	height:1.25rem;
+	height:1.25rem; 
 	width: 100%;
 	background-color: #e01100;
 	border: none;
@@ -13,6 +13,20 @@
 	
 	 
 }
+#lbt-c{
+	height: 25.833333rem;
+}
+#aa{
+	position: fixed;
+	top:1.041666rem;
+}
+#dibu{
+	color: red;
+}
+.mui-content::-webkit-scrollbar {
+        display: none;
+}
+
 .mui-icon-search{
 	font-size:0.572916rem;
 	color: #f8d09c;
@@ -111,7 +125,7 @@
 }
 .liebiao-a{
 	height: 2.083333rem;
-	width: 9.795833rem;
+	width: 100%;
 	margin: 0.104166rem;
 	display: flex;
 	justify-content: flex-start;
@@ -125,7 +139,7 @@
 	height: 2.083333rem;
 }
 .liebiao-c{
-	width: 7rem;
+	width:100%;
 	height: 2.083333rem;
 	margin-left: 0.052083rem;
 }

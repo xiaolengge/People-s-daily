@@ -9,7 +9,7 @@
 	background-color: #e01100;
 	border: none;
 	display: flex;
-	 justify-content: center;
+	justify-content: center;
 	
 	 
 }
@@ -22,7 +22,99 @@
 	font-size:0.572916rem;
 	color: #f8d09c;
 }
-#
+#toubu-d-a{
+	font-size:0.772916rem;
+	color: #fc472c;
+	margin: 0.052083rem;
+}
+#lbt-c{
+	height: 25.833333rem;
+}
+.toubu-a{
+	 align-self: center;
+}
+.toubu-b{
+	 align-self: center;
+	 width: 7.083333rem;
+	 height:0.833333rem;
+	 overflow: hidden;
+	 font-size: 0.46875rem;
+	 display: flex;
+	justify-content: flex-start;
+	 color: #f9d79a;
+}
+.toubu-b-a{
+		height:0.833333rem;
+		line-height:0.833333rem;
+		display: flex;
+		 align-self: center;
+		 margin:0.15625rem;
+	
+}
+.toubu-b-a-a{
+	 height:0.833333rem;
+	 align-self: center;
+	 font-size:0.625rem;
+}
+.toubu-b-a-b{
+	 height:0.833333rem;
+		font-size: 0.125rem;
+	 align-self: center;
+}
+.toubu-b-a-b-a{
+	position: relative;
+	top:-0.104166rem;
+}
+.toubu-b-a-b-b{
+	position: relative;
+	top:-0.625rem;
+}
+
+.toubu-c{
+	 align-self: center;
+	 
+}
+.toubu-d{
+	 align-self: center;
+}
+
+#slider{
+	height: 5.625rem;
+	overflow: hidden;
+}
+#slider img{
+	height: 5.64239rem;
+}
+.lbt-a{
+	width: 100%;
+	height: 0.729166rem;
+	line-height: 0.729166rem;
+	background: #000;
+	opacity: 0.5;
+	margin-top: -0.620833rem;
+	position: relative;
+	z-index: 10;
+	color: #fff;
+}
+#lbt-b{
+	text-align: right;
+}
+#lbt-c{
+	background: #fff;
+	overflow: visible;
+	height: 100%;
+}
+.liebiao{
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+	
+.liebiao-1{
+	width: 100%;
+	height: 100%;
+	display: none;
+}
 #zuidingbu{
 	overflow: visible;
 	height: 100%;
@@ -30,7 +122,7 @@
 .liebiao-a{
 	height: 2.083333rem;
 	width: 9.795833rem;
-	margin: 0.104166rem;
+	margin: 0.154166rem;
 	display: flex;
 	justify-content: flex-start;
 }
@@ -79,9 +171,43 @@
 .mui-scroll{
 	display: flex;
 }
-.xuanxiangka{
-	width: 8.020833rem;
+.xxk{
+	width: 8.545833rem;
 	display: flex;
-		 justify-content: center;
-		 align-self: center;
+	justify-content: center;
+}
+.xxk span{
+	 align-self: center;
+	 font-size: 0.520833rem;
+	 margin: 0.3125rem;
+}
+.xxk-1{
+	color: #f8d09c;
+}
+.change{
+	color: #fff;
+}
+.guanzhu{
+	height: 15.833333rem;
+	width: 100%;
+	background: #f3f3f3;
+	display: flex;
+	 flex-direction: column;
+	 justify-content: center;
+}
+.guanzhu div{
+	align-self: center; 
+}
+.guanzhu-2{
+	color: #bcbcbc;
+	font-size: 0.125rem;
+}
+.guanzhu-3{
+	width: 2.041666rem;
+	height: 0.820833rem;
+	background: #ff7183;
+	color: #fff;
+}
+#dibu{
+	color: red;
 }

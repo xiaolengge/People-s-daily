@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+#toubu{
+	height:4.375rem;
+	width: 100%;
+	background-color: #d83c3d;
+	border: none;
+
+}
+.mui-icon-extra{
+	color: #9c9999;
+}
+.mui-icon{
+	color: #9c9999;
+}
+#lbt-c{
+	overflow: visible;
+}
+.yanse{
+	color: #eae1e1;
+}
+#zuidingbu{
+	overflow: visible;
+}
+.mui-content::-webkit-scrollbar {
+        display: none;
+}
+.mui-bar-tab .mui-tab-item.mui-active {
+    color: #ff002f;
+	}
+
+.mui-segmented-control.mui-segmented-control-inverted .mui-control-item.mui-active{
+	color: #ffe0a4;
+}
+.mui-scroll-wrapper{
+	margin-bottom: 1.25rem;
+}
+#dibu{
+	color: red;
+}
+
+.bioati{
+	 
+	 color: #fff;
+	 letter-spacing:0.104166rem;
+}
+
+/* ----- */
+.toubu-c{
+	display: flex;
+	
+}
+.mui-icon-back{
+	color: #fff;
+}
+.toubu-b img{
+	width: 1.5625rem;
+	height: 1.5625rem;
+	border-radius: 50%;
+}
+.toubu-a{
+	display: flex;
+	justify-content:flex-start;
+	align-self:flex-end;
+}
+.toubu-d{
+	display: flex;
+	 justify-content:space-between;
+	height:2.83333rem;
+}
+.toubu-e{
+	color: #fff;
+	font-size: 0.416666rem;
+	display: flex;
+	
+	align-self: center;
+	flex-direction: column;
+	margin: 0.104166rem;
+}
+.toubu-f{
+	width: 2.708333rem;
+	height: 0.9375rem;
+	border: 1px solid #e05a57;
+	align-self: flex-end;
+	border-radius: 1.041666rem;
+	margin-right: -0.6125rem;
+	color: #fff;
+	text-align: center;
+	line-height:0.9375rem;
+}
+.wd{
+	width: 100%;
+	height: 1.260416rem;
+	background: #fff;
+	margin-top: 4.383333rem;
+	display: flex;
+	align-items: center;
+   font-size: 0.416666rem;
+	
+}
+.shehuo{
+	align-self: center;
+	text-align: center;
+	font-size: 0.416666rem;
+	margin: 0.104166rem;
+}
+#fuwu{
+	font-size: 0.9125rem;
+}
+.shezhi{
+	width: 100%;
+	height: 8.333333rem;
+	background: #fff;
+	margin-top: 0.208333rem;
+	font-size: 0.5125rem;
+}
+.mui-table-view-cell{
+	height:1.385416rem;
+}
+
+.mui-off-canvas-wrap{
+	height: 130%;
+}
+.gere-a{
+	font-size: 0.208333rem;
+}
+.gere-b{
+	margin-left: 0.520833rem;
+	
+}
+.gere-c{
+	margin-left: 0.520833rem;
+}
+.gere-d{
+	width: 100%;
+	height: 12.208333rem;
+	display: flex;
+	justify-content: center;
+	 align-items:center;
+}
+.change{
+	color: #ff4e64;
+}
+.gere-h{
+	display: none;
+}
+#gere-f{
+	font-size: 2.625rem;
+	color: #bcbcbc;
+}
+.gere-g{
+	margin: 0.404166rem;
+	margin-top: 0.3125rem;
+	color: #bababa;
+}
+.gere-i{
+	
+	margin-top: 0.3125rem;
+	color: #bababa;
+}

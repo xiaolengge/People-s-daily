@@ -1,0 +1,83 @@
+.mui-bar-nav{
+	box-shadow: none;
+	background: #fff;
+}
+.mui-title{
+	font-weight: 700;
+	letter-spacing:0.104166rem;
+}
+.mui-pull-left{
+	color: #8f8f8f;
+}
+.mui-scroll-wrapper{
+	background: #f1f1f1;
+}
+.liebiao{
+	background: #fff;
+	margin-top: 1.425rem;
+}
+.mui-table-view-cell{
+	height: 1.541666rem;
+	line-height:0.941666rem;
+}
+.mui-navigate-right{
+	font-size: 0.420833rem;
+	font-weight: 700;
+}
+.yijian{
+	margin-top: 1.283333rem;
+	margin-left: 0.416666rem;
+	font-size: 0.416666rem;
+	color: #858585;
+}
+.yijian-a{
+	height: 2.083333rem;
+	display: flex;
+	align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+	margin-top: 0.3125rem;
+}
+.yijian-b{
+	width: 2.604166rem;
+	height: 0.729166rem;
+	line-height: 0.729166rem;
+	text-align: center;
+	background: #c9c9c9;
+	color: #fff;
+	border-radius: 1.041666rem;
+}
+.change{
+	background: #ff455c;
+}
+#yijian-c{
+	height: 5.083333rem;
+	width: 95%;
+}
+.yijian-d{
+	text-align: center;
+	
+}
+#yijian-e{
+	width: 95%;
+}
+.yijian-f{
+	margin-top: 0.3125rem;
+	margin-left: 0.416666rem;
+	font-size: 0.416666rem;
+	color: #858585;
+}
+.yijian-j{
+	width: 9.375rem;
+	height: 1.041666rem;
+	
+	text-align: center;
+	color: #ffffff;
+	background: #d3d3d3;
+	
+	border-radius: 0.520833rem;
+	font-size: 0.416666rem;
+}
+.yijian-h{
+	text-align: center;
+}

@@ -1,0 +1,127 @@
+
+.pdao{
+	width: 100%;
+	height: 2.666666rem;
+	display: flex;
+	justify-content: space-between;
+	 align-items:center;
+	 background: #fff;
+}
+body{
+	background: #fff;
+}
+.pdao-a{
+	font-size: 0.920833rem;
+	margin-left: 0.208333rem;
+	font-weight: 700;
+	letter-spacing:0.104166rem;
+}
+.mui-icon-closeempty{
+	font-size: 1.320833rem;
+	color: #cccccc;
+}
+.pdao-b{
+	background: #fff;
+	font-size: 0.416666rem;
+	color: #9c9c9c;
+}
+.pdao-b span{
+	margin-left: 0.208333rem;
+}
+.pdao-c{
+	background: #fff;
+	width: 100%;
+	height: 4.166666rem;
+	margin-top: 0.3125rem;
+	display: flex;
+	align-items: center;
+	justify-content:  flex-start;
+	flex-wrap: wrap;
+}
+
+.toubu-b-a{
+	width: 1.766666rem;
+		height:1.133333rem;
+		display: flex;
+		 align-self: center;
+	border: 1px solid #d5d5d5;
+	margin: 0.108333rem;
+	justify-content: center;
+	border-radius: 0.208333rem;
+	background: #fff;
+}
+.toubu-b-a-a{
+		font-weight: 700;
+	 align-self: center;
+	 font-size:0.625rem;
+}
+.toubu-b-a-b{
+	 height:0.633333rem;
+		font-size: 0.125rem;
+	 align-self: center;
+}
+.toubu-b-a-b-a{
+	position: relative;
+	top:-0.104166rem;
+}
+.toubu-b-a-b-b{
+	position: relative;
+	top:-0.25rem;
+}
+.pdao-d{
+	height: 1.75rem;
+	width: 100%;
+	margin-top: 0.208333rem;
+	display: flex;
+	justify-content: space-around;
+	font-size: 0.720833rem;
+	align-items: center;
+}
+
+.pdao-f{
+	color:#dbdbdb ;
+	margin-left: 1.220833rem;
+}
+.pdao-h{
+	width: 100%;
+	height: 100%;
+	margin-top: 0.3125rem;
+	display: flex;
+	align-items: center;
+	justify-content:  flex-start;
+	flex-wrap: wrap;
+	
+}
+.pdao-i{
+	width:1.5625rem;
+	height: 0.791666rem;
+	border: 1px solid #f1f1f1;
+	border-radius: 0.604166rem;
+	text-align: center;
+	line-height:0.791666rem;
+	color: #010101;
+	margin: 0.208333rem;
+}
+.pdao-j{
+	width: 100%;
+	height: 100%;
+	margin-top: 0.3125rem;
+	display: flex;
+	align-items: center;
+	justify-content:  flex-start;
+	flex-wrap: wrap;
+	
+}
+.change{
+	color: #d50616;
+}
+.pdao-l{
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+.pdao-m{
+	width: 100%;
+	height: 100%;
+	display: none;
+}

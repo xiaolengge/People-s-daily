@@ -1,0 +1,65 @@
+#toubu{
+	width: 7.541666rem;
+	background: #f2f2f2;
+	border-radius: 1.3125rem;
+	 height: 1.033333rem;
+	
+}
+.mui-input-row label{
+	  float:none;
+}
+.mui-bar-nav{
+	background: #ffffff;
+	box-shadow:none;
+	display: flex;
+	justify-content: space-around;
+	height: 1.625rem;
+	align-items:center;
+}
+#inputdt{
+	width: 80%;
+}
+.toubu-a{
+	color: #868686;
+}
+.rece{
+	margin-top: 2.083333rem;
+}
+.rece-a{
+	margin: 0.608333rem;
+	font-size: 0.4125rem;
+	color:#454545;
+}
+.rece-b{
+	margin: 0.608333rem;
+	font-size: 0.4125rem;
+	display: flex;
+	justify-content:flex-start;
+}
+.rece-c{
+	width: 1.910416rem;
+	height: 0.933333rem;
+	background: #f6f6f6;
+	text-align: center;
+	line-height:0.933333rem;
+	border-radius: 0.104166rem;
+}
+.rece-d{
+	width: 25%;
+	height: 0.933333rem;
+	background: #f6f6f6;
+	text-align: center;
+	line-height:0.933333rem;
+	border-radius: 0.104166rem;
+	margin-left: 0.104166rem;
+}
+.rece-e{
+	margin-top: 0.208333rem;
+}
+.rece-f{
+	margin: 0.608333rem;
+	font-size:0.46875rem;
+	color: #222222;
+	line-height: 0.804166rem;
+}
+

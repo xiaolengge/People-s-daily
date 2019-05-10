@@ -1,0 +1,44 @@
+.mui-bar-nav{
+	box-shadow: none;
+	background: #fff;
+}
+.mui-title{
+	font-weight: 700;
+	letter-spacing:0.104166rem;
+}
+.mui-pull-left{
+	color: #8f8f8f;
+}
+.mui-scroll-wrapper{
+	background: #f1f1f1;
+}
+.liebiao{
+	background: #fff;
+	margin-top: 1.425rem;
+}
+.mui-table-view-cell{
+	height: 1.541666rem;
+	line-height:0.941666rem;
+}
+.mui-navigate-right{
+	font-size: 0.420833rem;
+	font-weight: 700;
+}
+.liebiao-a{
+	background: #fff;
+	margin-top: 0.425rem;
+}
+.liebiao-b{
+	width: 6.25rem;
+	height: 1.341666rem;
+	background: #ffffff;
+	border: 1px solid #dbdbdb;
+	margin: 0 auto;
+	margin-top: 0.520833rem;
+	border-radius: 0.608333rem;
+	text-align: center;
+	line-height: 1.341666rem;
+	color: #b21624;
+	font-size: 0.416666rem;
+	font-weight: 700;
+}
